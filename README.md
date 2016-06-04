@@ -1,2 +1,2 @@
 # Python
-Python Program Code
+Python Sample Code List
